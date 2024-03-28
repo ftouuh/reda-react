@@ -1,0 +1,22 @@
+.employee{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+}
+
+.employee .ima5i{
+    width: 100%;
+    height: 70%;
+}
+.ima5i img {
+    object-fit: cover;
+}
+
+.employee .nami {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
